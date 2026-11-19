@@ -30,4 +30,5 @@ Meridian comprueba `latest.json` de este repositorio al abrirse y cada 12 horas.
 | Versión / Version | Fecha / Date | SHA-256 |
 |---|---|---|
 | 1.0.0-rc.1 | 2026-11-19 | `a98efd71fb9be9e791f9ec9b807b5502dd9f698a93d2aedc50a833bc73541c41` |
+| 1.0.0-rc.2 | 2026-11-19 | `e2963aa3aeb7dbce9327fffe084c86322c80812a87e7f1a9ce27e189fbb2dab2` |
 <!-- SHA256-ROWS -->

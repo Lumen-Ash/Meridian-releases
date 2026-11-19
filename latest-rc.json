@@ -1,11 +1,11 @@
 {
-  "version": "1.0.0-rc.1",
-  "date": "2026-11-19T22:10:23.8049775+00:00",
-  "url": "https://github.com/Lumen-Ash/Meridian-releases/releases/download/v1.0.0-rc.1/Meridian-Setup-1.0.0-rc.1.exe",
-  "size": 57963791,
-  "sha256": "a98efd71fb9be9e791f9ec9b807b5502dd9f698a93d2aedc50a833bc73541c41",
+  "version": "1.0.0-rc.2",
+  "date": "2026-11-19T23:48:18.3681579+00:00",
+  "url": "https://github.com/Lumen-Ash/Meridian-releases/releases/download/v1.0.0-rc.2/Meridian-Setup-1.0.0-rc.2.exe",
+  "size": 57958737,
+  "sha256": "e2963aa3aeb7dbce9327fffe084c86322c80812a87e7f1a9ce27e189fbb2dab2",
   "notes": {
-    "es": "Primera versión de prueba de Meridian 1.0.0 (sustituye a World Time & Alarms).\n\n- Instalador por usuario, sin permisos de administrador.\n- Actualizaciones firmadas: Meridian avisa y solo instala al pulsar Actualizar.\n- Importa los datos de World Time & Alarms y quita su arranque con Windows.",
-    "en": "First test release of Meridian 1.0.0 (replaces World Time & Alarms).\n\n- Per-user installer, no administrator rights needed.\n- Signed updates: Meridian notifies you and only installs when you click Update.\n- Imports World Time & Alarms data and removes its Windows startup entry."
+    "es": "Segunda versión de prueba de Meridian 1.0.0. Si ves estas notas en Configuración, la actualización automática funcionó.\n\n- Ventana de alarma: con varias alarmas en la cola aparece «Ver todas en la lista», que cierra la ventana sin atender nada y te lleva a Alarmas con la sección Vencidas desplegada.\n- Instalador: pregunta Español/English al empezar (con el idioma de Windows preseleccionado); las actualizaciones silenciosas no preguntan y conservan el idioma.",
+    "en": "Second test release of Meridian 1.0.0. If you can read these notes in Settings, the automatic update worked.\n\n- Alarm window: with several alarms in the queue, a “View all in the list” button closes the window without attending anything and takes you to Alarms with the Overdue section expanded.\n- Installer: asks English/Español at the start (Windows language preselected); silent updates don’t ask and keep the language."
   }
 }

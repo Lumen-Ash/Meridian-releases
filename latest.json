@@ -1,11 +1,11 @@
 {
-  "version": "1.0.0",
-  "date": "2026-11-20T00:37:32.5730746+00:00",
-  "url": "https://github.com/Lumen-Ash/Meridian-releases/releases/download/v1.0.0/Meridian-Setup-1.0.0.exe",
-  "size": 57947973,
-  "sha256": "93b1a6008e81ef6cecf27aaa17c63cc2553c39d3ec0d4315f625e232718f9b80",
+  "version": "1.0.1",
+  "date": "2026-11-20T02:52:23.4628810+00:00",
+  "url": "https://github.com/Lumen-Ash/Meridian-releases/releases/download/v1.0.1/Meridian-Setup-1.0.1.exe",
+  "size": 57942865,
+  "sha256": "086f2dfbcf8c6bc1ff36ac4007c819c3db383cd02c93d90a38209e7c8f45aa5f",
   "notes": {
-    "es": "Primera versión estable de Meridian. Sustituye a World Time & Alarms.\n\n- Instalador por usuario, sin permisos de administrador, en español e inglés.\n- Actualizaciones firmadas que solo avisan: nunca se instalan sin pulsar Actualizar, y antes de cerrar te avisan si hay una alarma a punto de vencer.\n- Importa los datos de World Time & Alarms, quita su arranque con Windows y te ofrece desinstalarlo.\n- Las alarmas que vencen con Meridian cerrado aparecen como vencidas en la ventana de alarma.\n- Ventana de alarma con «Ver todas en la lista».",
-    "en": "First stable release of Meridian. It replaces World Time & Alarms.\n\n- Per-user installer, no administrator rights needed, in Spanish and English.\n- Signed updates that only notify you: nothing is installed until you click Update, and you are warned before closing if an alarm is about to go off.\n- Imports World Time & Alarms data, removes its Windows startup entry and offers to uninstall it.\n- Alarms that come due while Meridian is closed show up as overdue in the alarm window.\n- Alarm window with “View all in the list”."
+    "es": "Parche 1.0.1.\n\n- Al pulsar la notificación «Hay una versión nueva» te lleva a Configuración, a la sección Actualizaciones, y resalta el botón Actualizar. El texto ahora dice «Pulsa aquí para actualizar».\n- Solo hay como mucho un aviso de actualización: se retiran los de versiones ya instaladas y uno nuevo sustituye al anterior.",
+    "en": "Patch 1.0.1.\n\n- Clicking the “A new version is available” notification takes you to Settings, to the Updates section, and highlights the Update button. The text now reads “Click here to update”.\n- There is at most one update notice: notices for versions already installed are removed and a newer one replaces the earlier one."
   }
 }

@@ -32,4 +32,5 @@ Meridian comprueba `latest.json` de este repositorio al abrirse y cada 12 horas.
 | 1.0.0-rc.1 | 2026-11-19 | `a98efd71fb9be9e791f9ec9b807b5502dd9f698a93d2aedc50a833bc73541c41` |
 | 1.0.0-rc.2 | 2026-11-19 | `e2963aa3aeb7dbce9327fffe084c86322c80812a87e7f1a9ce27e189fbb2dab2` |
 | 1.0.0 | 2026-11-19 | `93b1a6008e81ef6cecf27aaa17c63cc2553c39d3ec0d4315f625e232718f9b80` |
+| 1.0.1 | 2026-11-19 | `086f2dfbcf8c6bc1ff36ac4007c819c3db383cd02c93d90a38209e7c8f45aa5f` |
 <!-- SHA256-ROWS -->
